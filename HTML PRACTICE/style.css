@@ -1,0 +1,47 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki
+   
+}
+
+.mediumspringgreen{
+    background-color: mediumspringgreen;
+}
+
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+#img{
+    height: 300px;
+    width: 1500px;
+    margin: 0px;
+    padding: left;
+    top: 1000%;
+}
+
+#h1{
+    position: absolute;
+    top:5%;
+}
+
+.color2{
+background-color: red;
+}
+.color3{
+    background-color: blue;
+}
+
+#h2{
+    color: black;
+}
